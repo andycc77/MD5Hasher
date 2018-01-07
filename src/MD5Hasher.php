@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: chenallen
- * Date: 2018/1/7
- * Time: 下午5:16
- */
+
 namespace Laravist\Hasher;
 
 /**
